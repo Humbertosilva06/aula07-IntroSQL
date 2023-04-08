@@ -1,0 +1,28 @@
+-- PRATICA GUIADA 1 --
+
+--Criar o arquivo pratica.db; conectar o arquivo .db com a extensão MySQL; criar o arquivo pratica.sql--
+
+-- PRAICA GUIADA 2--
+--2.1 criar uma tabela--
+-- tabela books id (*, PK, text); name (*, TEXT); author(*, TEXT); page_acount (INTEGER); price(*, REAL)  --
+-- VAlores com * são obrigatorios
+--2.2 Depois de cria-la, apague e crie de novo
+    
+
+
+
+
+-- PRATICA GUIADA 3: POPULAR TABELA --
+
+-- table books: id 8503012928; name  O Quinze; author Rachel de Queiroz; page_count 208; price 24.95--
+            --  id 8578887239; name Dom Casmurro; author Machado de Assis; page_count (NULL); price 46.77
+
+-- depois de popula-la:3.2- edite a segund linha  e de um valor 463 para page_acount; 3.3 - delete a primeira linha
+
+            FIXAÇÃO
+
+-1 crie uma teabela de tarefas com pelo menos 3 colunas ,sendo uma delas necessariamente a id(PK);
+-2 popule sua tabela com pelo menos 3 linhas
+-3 delete sua tabela e recria-a;
+-4 monte uma query que edita uma das linhas;
+-5 monte uma query que deleta uma das linhas
